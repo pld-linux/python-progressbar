@@ -14,6 +14,7 @@ Group:		Libraries/Python
 Source0:	https://python-progressbar.googlecode.com/files/progressbar-%{version}.tar.gz
 # Source0-md5:	4f904e94b783b4c6e71aa74fd2432c59
 URL:		https://code.google.com/p/python-progressbar/
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
 BuildRequires:	sed >= 4.0
