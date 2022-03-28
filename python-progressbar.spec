@@ -8,7 +8,7 @@
 Summary:	Text progressbar library for python
 Name:		python-%{module}
 Version:	2.3
-Release:	2
+Release:	3
 License:	LGPL
 Group:		Libraries/Python
 Source0:	https://python-progressbar.googlecode.com/files/progressbar-%{version}.tar.gz
